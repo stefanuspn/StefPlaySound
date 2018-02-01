@@ -1,0 +1,24 @@
+{
+  "name": "jQueryStefPlaySound.js",
+  "version": "0.0.1",
+  "description": "Plugin Jquery yang untuk mendengarkan audio secara langsung sesuai pilihan user",
+  "main": "asset/js/jQueryStefPlaySound.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanuspn/StefPlaySound.git"
+  },
+  "keywords": [
+    "Jquery",
+    "Plugin",
+    "Audio"
+  ],
+  "author": "Stefanus Prasetyo Nugroho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stefanuspn/StefPlaySound/issues"
+  },
+  "homepage": "https://github.com/stefanuspn/jQueryStefPlaySound.js#readme"
+}
